@@ -57,4 +57,25 @@ Se comparan los modelos con las siguientes métricas:
 ---
 
 ## 📂 Estructura del Proyecto
+TelecomX_LATAM_Parte2.ipynb # Notebook con el pipeline completo
+telecom_tratado.csv # Archivo tratado de la Parte 1
+images/ # Gráficos generados en el análisis
+README.md # Documentación del proyecto
+
+
+---
+
+## 🧰 Tecnologías utilizadas
+- **Python** (pandas, numpy, matplotlib, seaborn)  
+- **scikit-learn** (preprocesamiento, modelos y métricas)  
+- **XGBoost** (modelo opcional avanzado)  
+- **Jupyter Notebook** para desarrollo y documentación  
+
+---
+
+## 🎯 Objetivo final
+Anticipar la **evasión de clientes (Churn)** y proporcionar recomendaciones estratégicas que permitan a **Telecom X** mejorar la retención y optimizar sus recursos de negocio.  
+
+---
+
 
