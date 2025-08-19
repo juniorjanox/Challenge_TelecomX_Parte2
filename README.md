@@ -57,12 +57,12 @@ Se comparan los modelos con las siguientes métricas:
 ---
 
 ## 📂 Estructura del Proyecto
-
-TelecomX/
+```
+Challenge_TelecomX_Parte2/
       ├── datos_tratados.csv
       ├── README.md
       ├── TelecomX_LATAM_Parte2.ipynb
-
+```
 ---
 
 ## 🧰 Tecnologías utilizadas
