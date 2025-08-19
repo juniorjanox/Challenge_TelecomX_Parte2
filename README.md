@@ -59,9 +59,9 @@ Se comparan los modelos con las siguientes métricas:
 ## 📂 Estructura del Proyecto
 
 TelecomX/
-├── datos_tratados.csv
-├── README.md
-├── TelecomX_LATAM_Parte2.ipynb
+      ├── datos_tratados.csv
+      ├── README.md
+      ├── TelecomX_LATAM_Parte2.ipynb
 
 ---
 
