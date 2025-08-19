@@ -8,7 +8,7 @@ En esta etapa, el objetivo es construir un **pipeline de Machine Learning** que 
 ## 📌 Flujo del Proyecto
 
 ### 1️⃣ Extracción de datos tratados
-- Se reutiliza el archivo **`telecom_tratado.csv`** obtenido en la **Parte 1** (datos limpios, corregidos y estandarizados).  
+- Se reutiliza el archivo **`datos_tratados.csv`** obtenido en la **Parte 1** (datos limpios, corregidos y estandarizados).  
 
 ---
 
@@ -77,5 +77,10 @@ Challenge_TelecomX_Parte2/
 Anticipar la **evasión de clientes (Churn)** y proporcionar recomendaciones estratégicas que permitan a **Telecom X** mejorar la retención y optimizar sus recursos de negocio.  
 
 ---
+📄 Licencia
+Este proyecto es parte de un desafío académico/profesional para análisis de datos en telecomunicaciones.
 
+---
+Agradecimientos
+Gracias a Oracle y Alura LATAM por brindar las bases y el material para este proyecto, así como por su alianza que hace posible este programa de capacitación en tecnología.
 
