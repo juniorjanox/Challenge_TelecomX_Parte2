@@ -57,11 +57,11 @@ Se comparan los modelos con las siguientes métricas:
 ---
 
 ## 📂 Estructura del Proyecto
-TelecomX_LATAM_Parte2.ipynb # Notebook con el pipeline completo
-telecom_tratado.csv # Archivo tratado de la Parte 1
-images/ # Gráficos generados en el análisis
-README.md # Documentación del proyecto
 
+TelecomX/
+├── datos_tratados.csv
+├── README.md
+├── TelecomX_LATAM_Parte2.ipynb
 
 ---
 
